@@ -13,4 +13,10 @@ This is a Flask web application that provides:
 python -m venv venv
 source venv/bin/activate        # macOS/Linux
 venv\Scripts\activate           # Windows
+# 🚀 Live Project Link
+
+You can access the live deployed version here:
+
+👉 https://gemini-toolkit.onrender.com
+
 
